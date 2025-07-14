@@ -13,6 +13,9 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 
 ---
 
@@ -24,7 +27,7 @@
 ---
 
 ### 📫 Let’s Connect:
-- [LinkedIn]https://www.linkedin.com/in/kalpana-b95851203  
+- [LinkedIn](https://www.linkedin.com/in/kalpana-b95851203)
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
