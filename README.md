@@ -24,9 +24,7 @@
 ---
 
 ### 📫 Let’s Connect:
-- [LinkedIn](https://www.linkedin.com/in/your-link/)  
-- [Portfolio Website](https://yourportfolio.com) *(if available)*
-
+- [LinkedIn]https://www.linkedin.com/in/kalpana-b95851203  
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
